@@ -1,0 +1,25 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Source data not intended for public redistribution
+data/*.csv
+
+# Temporary files
+*.tmp
+*.bak
+
+# Local project notes
+PROJECT_TEXT.md
+FOLDER_STRUCTURE.txt
